@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website_beekids_ReactJS/static/css/main.51218739.css",
-    "main.js": "/website_beekids_ReactJS/static/js/main.f712b320.js",
+    "main.js": "/website_beekids_ReactJS/static/js/main.92bb2212.js",
     "static/js/787.40a913fe.chunk.js": "/website_beekids_ReactJS/static/js/787.40a913fe.chunk.js",
     "static/media/bg-faq-2.png": "/website_beekids_ReactJS/static/media/bg-faq-2.33ace4e49c6eb7361395.png",
     "static/media/bg-banner.png": "/website_beekids_ReactJS/static/media/bg-banner.a16281ba3d87dff3184a.png",
@@ -89,11 +89,11 @@
     "static/media/slick.woff": "/website_beekids_ReactJS/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/website_beekids_ReactJS/index.html",
     "main.51218739.css.map": "/website_beekids_ReactJS/static/css/main.51218739.css.map",
-    "main.f712b320.js.map": "/website_beekids_ReactJS/static/js/main.f712b320.js.map",
+    "main.92bb2212.js.map": "/website_beekids_ReactJS/static/js/main.92bb2212.js.map",
     "787.40a913fe.chunk.js.map": "/website_beekids_ReactJS/static/js/787.40a913fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51218739.css",
-    "static/js/main.f712b320.js"
+    "static/js/main.92bb2212.js"
   ]
 }
